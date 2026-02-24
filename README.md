@@ -19,7 +19,7 @@ We asked:
 
 > What if programming could be assembled physically before being written?
 
-By mapping abstract control flow structures to physical objects, we aimed to create a more intuitive and accessible learning experience — especially for beginners and visually impaired users.
+By mapping abstract control flow structures to physical objects, we aimed to create a more intuitive and accessible learning experience, especially for beginners and visually impaired users.
 
 ### My Role
 I worked primarily on the software side as the lead Unity developer.
